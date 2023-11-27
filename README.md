@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/devwael" target="blank"><img src="https://img.shields.io/twitter/follow/devwael?logo=twitter&style=for-the-badge" alt="devwael" /></a> </p>
 
-- 🔭 I’m currently working on [Arageek Community](https://www.arageek.community/)
+- 🔭 I’m currently working on [Merchant](https://athemes.com/merchant/)
 
 - 👨‍💻 All of my projects are available at [https://themeforest.net/user/bbioonthemes/portfolio](https://themeforest.net/user/bbioonthemes/portfolio)
 
